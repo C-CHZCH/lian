@@ -1,0 +1,15 @@
+D:\Github\lian\练\ex\bin\Debug\net7.0\ex.exe
+D:\Github\lian\练\ex\bin\Debug\net7.0\ex.deps.json
+D:\Github\lian\练\ex\bin\Debug\net7.0\ex.runtimeconfig.json
+D:\Github\lian\练\ex\bin\Debug\net7.0\ex.dll
+D:\Github\lian\练\ex\bin\Debug\net7.0\ex.pdb
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.dll
+D:\Github\lian\练\ex\obj\Debug\net7.0\refint\ex.dll
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.pdb
+D:\Github\lian\练\ex\obj\Debug\net7.0\ex.genruntimeconfig.cache
+D:\Github\lian\练\ex\obj\Debug\net7.0\ref\ex.dll

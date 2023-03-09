@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\lian\\练\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Github\\lian\\练\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Github\\lian\\练\\ex\\ex.csproj",
+      "projectName": "ex",
+      "projectPath": "D:\\Github\\lian\\练\\ex\\ex.csproj",
       "packagesPath": "C:\\Users\\CHZCH\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\lian\\练\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Github\\lian\\练\\ex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CHZCH\\AppData\\Roaming\\NuGet\\NuGet.Config",
