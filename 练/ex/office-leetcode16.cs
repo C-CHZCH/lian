@@ -1,6 +1,6 @@
 ﻿namespace ex;
 
-internal class Solution_office16
+internal class SolutionOffice16
 {
     public double MyPow(double x, int n)
     {

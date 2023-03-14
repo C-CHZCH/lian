@@ -1,14 +1,11 @@
-using System;
-
 namespace ex;
 
-public class Solution_office06
+public class SolutionOffice06
 {
-
     public int[] ReversePrint(ListNode head)
     {
-        List<int>res = new List<int>();
-        ListNode idx = head;
+        var res = new List<int>();
+        var idx = head;
         while (idx.next != null)
         {
             res.Add(idx.val);
@@ -20,11 +17,13 @@ public class Solution_office06
     }
 }
 
+public class ListNode
+{
+    public ListNode next;
+    public int val;
 
-
-  public class ListNode {
-      public int val;
-      public ListNode next;
-      public ListNode(int x) { val = x; }
-  }
- 
+    public ListNode(int x)
+    {
+        val = x;
+    }
+}

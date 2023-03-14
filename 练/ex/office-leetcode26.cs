@@ -10,10 +10,17 @@ public class TreeNode
     {
         val = x;
     }
+
+    public TreeNode(int x, TreeNode y, TreeNode z)
+    {
+        val = x;
+        left = y;
+        right = z;
+    }
 }
 
 //判断B是否为A子树
-internal class Solution_office26
+internal class SolutionOffice26
 {
     public bool IsSubStructure(TreeNode A, TreeNode B)
     {

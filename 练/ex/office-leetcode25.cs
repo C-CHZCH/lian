@@ -1,6 +1,6 @@
 ﻿namespace ex;
 
-internal class Solution_office25
+internal class SolutionOffice25
 {
     public ListNode MergeTwoLists(ListNode l1, ListNode l2)
     {

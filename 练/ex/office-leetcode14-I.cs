@@ -1,6 +1,6 @@
 ﻿namespace ex;
 
-internal class Solution_office14
+internal class SolutionOffice14
 {
     public int CuttingRope(int n)
     {
@@ -8,8 +8,8 @@ internal class Solution_office14
 
             return n - 1;
 
-        int quotient = n / 3;
-        int remainder = n % 3;
+        var quotient = n / 3;
+        var remainder = n % 3;
         if (remainder == 0)
 
             return (int)Math.Pow(3, quotient);

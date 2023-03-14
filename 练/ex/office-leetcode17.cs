@@ -1,29 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
-namespace ex
+namespace ex;
+
+public class SolutionOffice17
 {
-    public class Solution_office17
+    public int[] PrintNumbers(int n)
     {
-        public int[] PrintNumbers(int n)
-        {
-            
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < n; i++)
-            {
-                sb.Append(9);
-            }
+        var sb = new StringBuilder();
+        for (var i = 0; i < n; i++) sb.Append(9);
 
-            int theMax = Int32.Parse(sb.ToString());
-            int[]res = new int[theMax];
-            for (int i = 1; i <= theMax; i++)
-            {
-                res[i] = i;
-            }
-            return res;
-        }
+        var theMax = int.Parse(sb.ToString());
+        var res = new int[theMax];
+        for (var i = 1; i <= theMax; i++) res[i] = i;
+        return res;
     }
 }

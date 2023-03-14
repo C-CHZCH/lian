@@ -1,6 +1,6 @@
 ﻿namespace ex;
 
-public class Solution_office15
+public class SolutionOffice15
 {
     public int HammingWeight(uint n)
     {

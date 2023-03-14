@@ -1,4 +1,2 @@
-﻿using ex;
-
-var t = new Solution_office10();
-Console.WriteLine(t.NumWays(46));
+﻿int[,] arr = { { 0, 1, 2 }, { 1, 2, 3 } };
+Console.WriteLine(arr.GetLength(0));
