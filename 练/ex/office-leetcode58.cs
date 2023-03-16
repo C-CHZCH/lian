@@ -2,11 +2,12 @@
 
 public class OfficeLeetcode58
 {
-    public string ReverseWords(string s) {
-        string[] temp = s.Split(' ');
+    public string ReverseWords(string s)
+    {
+        var temp = s.Split(' ');
         Array.Reverse(temp);
-        temp=temp.Where(e => e != "").ToArray();
-        string str = string.Join(" ", temp);
+        temp = temp.Where(e => e != "").ToArray();
+        var str = string.Join(" ", temp);
         return str;
     }
 }

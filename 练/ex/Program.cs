@@ -1,2 +1,3 @@
-﻿int[,] arr = { { 0, 1, 2 }, { 1, 2, 3 } };
-Console.WriteLine(arr.GetLength(0));
+﻿var res = '1' > '1' ? 1 : 0;
+
+Console.Write(res);
