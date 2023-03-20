@@ -6,7 +6,7 @@ public class OfficeLeetcode59
     private readonly LinkedList<int> mvq;
     private readonly Queue<int> q;
 
-    public MaxQueue()
+    public OfficeLeetcode59()
     {
         mvq = new LinkedList<int>();
         q = new Queue<int>();

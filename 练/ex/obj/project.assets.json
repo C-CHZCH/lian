@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CHZCH\\.nuget\\packages\\": {}
+    "C:\\Users\\ZCH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\Github\\lian\\练\\ex\\ex.csproj",
       "projectName": "ex",
       "projectPath": "D:\\Github\\lian\\练\\ex\\ex.csproj",
-      "packagesPath": "C:\\Users\\CHZCH\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ZCH\\.nuget\\packages\\",
       "outputPath": "D:\\Github\\lian\\练\\ex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CHZCH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZCH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

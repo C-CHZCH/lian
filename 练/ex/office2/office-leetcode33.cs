@@ -14,8 +14,8 @@ public class OfficeLeetcode33
         if (lo >= hi) return true;
         var rootval = postorder[hi];
         var rightStart = hi;
-        for (var i = lo; i < hi; i++)//假如在这个查找循环中找到了不符合二叉搜索树特性的话直接返回false。
-            if (postorder[i] > rootval)//
+        for (var i = lo; i < hi; i++) //假如在这个查找循环中找到了不符合二叉搜索树特性的话直接返回false。
+            if (postorder[i] > rootval) //
             {
                 if (rightStart == hi) rightStart = i;
             }
