@@ -8,13 +8,14 @@ public class Ex327
      * 1. 将t的所有子串保存在tree中
      * 2. 遍历s，通过递归的方式计算 相差一个字符的情况
      */
-    
+
     //这个tree的children数组就是拿来保存子串的，count是保存子串的长度
     public int CountSubstrings(string s, string t)
     {
         var root = new TreeNode();
 
         #region 1. 将t中的所有子串放入tree中
+
         //这个树 ，root的数组是保存以每一个字符串为头形成的所有子串树的头
         for (var i = 0; i < t.Length; i++)
         {
@@ -43,7 +44,7 @@ public class Ex327
 
         #region 2.遍历s, 递归计算子串结果
 
-        for (var i = 0; i < s.Length; i++) Help(i, false, root);//根据s中不同子串的开头来作遍历
+        for (var i = 0; i < s.Length; i++) Help(i, false, root); //根据s中不同子串的开头来作遍历
 
         #endregion
 
@@ -92,7 +93,7 @@ public class Ex327
 
     private class TreeNode
     {
-        public readonly TreeNode[] Children = new TreeNode[26];//保存子串
-        public int Count;//Count代表这相同的子串的数量
+        public readonly TreeNode[] Children = new TreeNode[26]; //保存子串
+        public int Count; //Count代表这相同的子串的数量
     }
 }

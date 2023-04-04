@@ -27,7 +27,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -76,6 +76,12 @@
       <workItem from="1679567458683" duration="949000" />
       <workItem from="1679795784232" duration="996000" />
       <workItem from="1679917076468" duration="4229000" />
+      <workItem from="1680078494735" duration="351000" />
+      <workItem from="1680078919670" duration="2084000" />
+      <workItem from="1680081035992" duration="1601000" />
+      <workItem from="1680154554567" duration="4000" />
+      <workItem from="1680481120140" duration="743000" />
+      <workItem from="1680481928389" duration="3526000" />
     </task>
     <servers />
   </component>
@@ -85,5 +91,9 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
