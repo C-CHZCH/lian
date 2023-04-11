@@ -19,7 +19,7 @@ public class Office014
             right++;
             if (need.ContainsKey(c))
             {
-                if (window.TryGetValue(c, out int value)) value++;
+                if (window.TryGetValue(c, out var value)) value++;
                 else window.Add(c, 1);
 
                 if (window[c] == need[c]) valid++;

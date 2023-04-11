@@ -11,7 +11,7 @@ public class OfficeLeetcode45
         var arr = new string[n];
         for (var i = 0; i < n; i++) arr[i] = nums[i].ToString();
 
-        Array.Sort(arr, int(a, b) =>
+        Array.Sort(arr, int (a, b) =>
         {
             string x = a + b, y = b + a;
             for (var i = 0; i < x.Length; i++)
